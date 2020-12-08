@@ -27,20 +27,6 @@ Export Rank,sctg_desc,variable,value
 5,"Milled Grain Products and Preparations, and Bakery Products",tons_import,45109.953100000006
 6,"Animal Feed, Eggs, Honey, and Other Products of Animal Origin",tons_import,36781.566902
 7,Animals and Fish (live),tons_import,18855.253599999996
-1,"Other Prepared Foodstuffs, Fats and Oils",wgt_dist_export,10238954.2734
-2,Cereal Grains (includes seed),wgt_dist_export,2466206.3946
-3,"Agricultural Products (excludes Animal Feed, Cereal Grains, and Forage Products)",wgt_dist_export,7056498.1475
-4,"Meat, Poultry, Fish, Seafood, and Their Preparations",wgt_dist_export,5700004.0662
-5,"Milled Grain Products and Preparations, and Bakery Products",wgt_dist_export,5576941.924099999
-6,"Animal Feed, Eggs, Honey, and Other Products of Animal Origin",wgt_dist_export,4955542.5453
-7,Animals and Fish (live),wgt_dist_export,971412.9117999999
-1,"Other Prepared Foodstuffs, Fats and Oils",wgt_dist_import,10210257.8845
-2,Cereal Grains (includes seed),wgt_dist_import,1627548.8048
-3,"Agricultural Products (excludes Animal Feed, Cereal Grains, and Forage Products)",wgt_dist_import,6691783.236900001
-4,"Meat, Poultry, Fish, Seafood, and Their Preparations",wgt_dist_import,5300031.382999999
-5,"Milled Grain Products and Preparations, and Bakery Products",wgt_dist_import,4856418.596299998
-6,"Animal Feed, Eggs, Honey, and Other Products of Animal Origin",wgt_dist_import,4212663.554800001
-7,Animals and Fish (live),wgt_dist_import,1076876.0191000002
 1,"Other Prepared Foodstuffs, Fats and Oils",tmiles_export,98991.80430136759
 2,Cereal Grains (includes seed),tmiles_export,193268.69327941292
 3,"Agricultural Products (excludes Animal Feed, Cereal Grains, and Forage Products)",tmiles_export,103710.32440420099
